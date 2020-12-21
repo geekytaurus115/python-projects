@@ -12,3 +12,11 @@ Mini projects in Python
  To upgrade "pip" use the below command
  'python -m pip install --upgrade pip'
 ```
+
+
+## 2. stack-overflow-search-tool : 
+> 'pip install howdoi'
+
+
+## 3. wikipedia-search-tool : 
+> 'pip install wikipedia'
