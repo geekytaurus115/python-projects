@@ -23,5 +23,16 @@ Mini projects in Python
 
 
 ## 4. QR Code generator :
-> 'pip install pyqrcode'
-> 'pip install pypng'
+```
+ 'pip install pyqrcode'
+ 'pip install pypng'
+```
+
+## 5. Url Shortening Tool :
+> 'pip install pyshorteners'
+
+## 6. Google Search Tool :
+> 'pip install google'
+
+## 7. Pocket Dictionary :
+> 'pip install pydictionary'
