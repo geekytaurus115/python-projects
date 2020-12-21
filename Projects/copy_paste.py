@@ -10,3 +10,11 @@ pyperclip.copy(s)
 pyperclip.paste()
 
 
+
+# -----------------------------------------------------------
+# --> For this we have to install a package named "pyperclip"
+# --> To install this package use the below command:
+# --> 'pip install pyperclip'
+
+# --> After installing this package we can use ctrl+v in console to paste the copied string
+# ------------------------------------------------------------
