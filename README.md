@@ -20,3 +20,8 @@ Mini projects in Python
 
 ## 3. wikipedia-search-tool : 
 > 'pip install wikipedia'
+
+
+## 4. QR Code generator :
+> 'pip install pyqrcode'
+> 'pip install pypng'
